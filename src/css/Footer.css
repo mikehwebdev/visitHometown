@@ -1,0 +1,7 @@
+.footer {
+    width:720px;
+    height: 394px;
+    display: grid;
+    place-items: center;
+    background-color: whitesmoke
+}

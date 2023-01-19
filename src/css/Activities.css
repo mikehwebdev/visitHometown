@@ -1,0 +1,15 @@
+.activities {
+    background-color: #F1FAEE;
+    width: 720px;
+}
+
+.activities > h1{
+    text-align: center;
+    margin: 39px auto 54px auto;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
